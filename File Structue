@@ -1,0 +1,7 @@
+shop-management-system/
+│
+├── shop Management System.py   # Main program
+├── credentials.json            # Stores admin credentials
+├── customer.json               # Stores customer details
+├── items.json                  # Stores item details
+└── README.md                   # Project documentation
